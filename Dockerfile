@@ -1,0 +1,3 @@
+FROM nginx
+ENV nginx_version="ORACLE NGINX"
+EXPOSE 100 120 140 160 180
